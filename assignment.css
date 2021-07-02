@@ -2,7 +2,6 @@
 	margin: 10;
 	padding: 10;
 	box-sizing: border-box;
-	background-image: url("back.jpg");
 }
 html, body{
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
@@ -121,10 +120,12 @@ div > i{
 	float: left;
 	width: 10%;
 }
-/*.video{
-	outline-style: outset;
-	border: 1px solid black;
-  	outline-style: solid;
-  	outline-color: red;
-  	outline-width: thin;
-}*/
+img {
+  opacity: 0.9;
+}
+img:hover {
+  opacity: 1.0;
+}
+a:hover{
+	color: grey;
+}
