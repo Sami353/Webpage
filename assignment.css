@@ -9,6 +9,7 @@ html, body{
 	color: #474747;
 	background-image: url("plain.jpg");
 	background-repeat: repeat;
+	background-attachment: fixed;
 }
 .fixed-width{
 	width: 1000px;
@@ -16,6 +17,7 @@ html, body{
 }
 .fixed-width > nav > ul > li{
 	list-style-type: none;
+	/*text-align: justify;*/
 }
 a{
 	color: inherit;
