@@ -315,11 +315,14 @@ div.desc {
   font-size: 0.6em;
 }
 .video{
-  border-style: groove;
+ border-style: groove;
   margin-left: 320px;
   margin-right: 320px;
   padding-left: 10px;
-  padding-bottom: 10px;
+  padding-top: 7px;
+  padding-bottom: 5px;
+  /*padding-right: 20px;*/
+  padding-left: 25px;
   color: black;
   box-shadow: 10px 10px grey;
 }
