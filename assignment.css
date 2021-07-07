@@ -5,7 +5,7 @@
 }
 html, body{
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 16px;
+	font-size: 1rem;
 	text-align: justify;
 	line-height: normal;
 	color: #474747;
@@ -15,7 +15,7 @@ html, body{
 	/*background-size: 1920px 1080px;*/
 }
 .fixed-width{
-	width: 1000px;
+	width: 64rem;
 	margin: 0 auto;
 }
 .fixed-width > nav > ul > li{
@@ -47,7 +47,7 @@ a{
 }
 .features > li > b{
   color: #474747;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 2;
 }
 .table{
@@ -65,7 +65,7 @@ a{
 }
 .page-header{
 	border-top: 5px solid #ebebeb;
-	padding-bottom: 2em;
+	padding-bottom: 2rem;
 	background-color: #f8f1fc;
 }
 .page-footer{
